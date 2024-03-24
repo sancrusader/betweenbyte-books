@@ -6,8 +6,10 @@
 
 ## 🐱‍💻Pentesting Web
 
-* [Pentesting Web](pentesting-web/README.md)
-    * [Metologi Kerentanan Web](pentesting-web/metologi/README.md)
+* [Metologi Kerentanan Web](pentesting-web/metologi/README.md)
+* [Account Takeover](pentesting-web/account-takeover/README.md)
+* [Apikey Leaks](pentesting-web/apikey-leaks/README.md)
+* [SSTI](pentesting-web/ssti/README.md)
 
 ## 🐱‍👤Roadmap
 

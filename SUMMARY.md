@@ -7,6 +7,7 @@
 ## 🐱‍💻Pentesting Web
 
 * [Pentesting Web](pentesting-web/README.md)
+    * [Metologi Kerentanan Web](pentesting-web/metologi/README.md)
 
 ## 🐱‍👤Roadmap
 
